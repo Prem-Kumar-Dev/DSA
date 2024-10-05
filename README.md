@@ -34,8 +34,8 @@ Each topic is implemented in multiple languages, with well-documented code and e
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Prem-Kumar-Dev/DSA-Repo.git
-   cd DSA-Repo
+   git clone https://github.com/Prem-Kumar-Dev/DSA.git
+   cd DSA
    ```
 
 2. **Navigate to the desired language folder**:
